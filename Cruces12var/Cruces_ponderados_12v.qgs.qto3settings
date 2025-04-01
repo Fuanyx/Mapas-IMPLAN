@@ -1,0 +1,35 @@
+{
+  "KEYFRAMES": {
+    "camera": {
+      "groups": []
+    },
+    "layers": {
+      "cruceros_prim_y_sec_datos_model_0e38f47f_7c72_4a28_8271_4a5a675d46a8": {
+        "enabled": true,
+        "groups": []
+      },
+      "fp:bffc6d4a": {
+        "enabled": true,
+        "groups": []
+      }
+    },
+    "repeat": false
+  },
+  "LAYERS": [
+    {
+      "geomType": 1,
+      "layerId": "cruceros_prim_y_sec_datos_model_0e38f47f_7c72_4a28_8271_4a5a675d46a8",
+      "name": "cruceros_prim_y_sec_datos_model",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "fp:bffc6d4a",
+      "name": "Flat Plane",
+      "properties": {},
+      "visible": false
+    }
+  ],
+  "Version": 20800
+}

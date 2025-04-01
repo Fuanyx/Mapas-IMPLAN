@@ -1,0 +1,46 @@
+{
+  "KEYFRAMES": {
+    "camera": {
+      "groups": []
+    },
+    "layers": {
+      "Formulario_Parques_c1bb92c4_c6fe_471f_a1a8_3195e9ae88d8": {
+        "enabled": true,
+        "groups": []
+      },
+      "Formulario_caracteristicas_Parque_76b26cc5_016f_431e_85e8_05f27c177ffd": {
+        "enabled": true,
+        "groups": []
+      },
+      "fp:e77f040f": {
+        "enabled": true,
+        "groups": []
+      }
+    },
+    "repeat": false
+  },
+  "LAYERS": [
+    {
+      "geomType": 1,
+      "layerId": "Formulario_caracteristicas_Parque_76b26cc5_016f_431e_85e8_05f27c177ffd",
+      "name": "Formulario_caracteristicas_Parque2",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "Formulario_Parques_c1bb92c4_c6fe_471f_a1a8_3195e9ae88d8",
+      "name": "Formulario_Parques2",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "fp:e77f040f",
+      "name": "Flat Plane",
+      "properties": {},
+      "visible": false
+    }
+  ],
+  "Version": 20800
+}

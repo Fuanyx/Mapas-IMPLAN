@@ -1,0 +1,68 @@
+{
+  "KEYFRAMES": {
+    "camera": {
+      "groups": []
+    },
+    "layers": {
+      "Corredores_Troncales_3ad7e532_1c5c_4de4_8f11_09e79e90a538": {
+        "enabled": true,
+        "groups": []
+      },
+      "Red_de_Semaforos_5cafb43a_255d_4105_8390_a486a6b9f6d8": {
+        "enabled": true,
+        "groups": []
+      },
+      "cruceros_bj_evaludos_230125_03e22137_07ec_4088_986c_b60e2d08d7cf": {
+        "enabled": true,
+        "groups": []
+      },
+      "cruces_intervenidos__2023_y_2024_bf3067e1_aa9d_41ef_b89e_302b64d251e8": {
+        "enabled": true,
+        "groups": []
+      },
+      "fp:4ed1146c": {
+        "enabled": true,
+        "groups": []
+      }
+    },
+    "repeat": false
+  },
+  "LAYERS": [
+    {
+      "geomType": 1,
+      "layerId": "cruces_intervenidos__2023_y_2024_bf3067e1_aa9d_41ef_b89e_302b64d251e8",
+      "name": "cruces_intervenidos",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "Red_de_Semaforos_5cafb43a_255d_4105_8390_a486a6b9f6d8",
+      "name": "Red_de_Semaforos",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 1,
+      "layerId": "cruceros_bj_evaludos_230125_03e22137_07ec_4088_986c_b60e2d08d7cf",
+      "name": "propuesta_cruces_seguros",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 2,
+      "layerId": "Corredores_Troncales_3ad7e532_1c5c_4de4_8f11_09e79e90a538",
+      "name": "Corredores_Troncales",
+      "properties": {},
+      "visible": false
+    },
+    {
+      "geomType": 0,
+      "layerId": "fp:4ed1146c",
+      "name": "Flat Plane",
+      "properties": {},
+      "visible": false
+    }
+  ],
+  "Version": 20800
+}
